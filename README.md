@@ -1,1 +1,1 @@
-# Pasckathon_Friends
+To use it on your machine run npm install from the terminal
