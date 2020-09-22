@@ -1,0 +1,16 @@
+body {
+  background-color: #17a2b8;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+}
