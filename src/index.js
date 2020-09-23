@@ -20,14 +20,7 @@ require('firebase/auth');
 require('firebase/database');
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCWYOfE91eaABu2LeVJogz-j9Y1Qyu6iXM",
-  authDomain: "home-automation-a274b.firebaseapp.com",
-  databaseURL: "https://home-automation-a274b.firebaseio.com",
-  projectId: "home-automation-a274b",
-  storageBucket: "home-automation-a274b.appspot.com",
-  messagingSenderId: "578331922850",
-  appId: "1:578331922850:web:9906cfb1b4a68385de22fb",
-  measurementId: "G-495MQ2P0HP"
+  //add your firebase configuration
 });
 
 //express app initialization
