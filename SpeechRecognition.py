@@ -8,10 +8,10 @@ json = './service_account.json'
 cred = credentials.Certificate(json)
 
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://home-automation-a274b.firebaseio.com'
+    'databaseURL': 'https://your-firebase-application.firebaseio.com'
 })
 
-ref = db.reference('/users/k58wd2OhXSf48EXXk9nVkzGBF0a2/')
+ref = db.reference('/path-to-your-table/')
 
 
 sample_rate = 48000
