@@ -1,11 +1,11 @@
 ### Step1: 
-To use it on your machine run npm install from the terminal
+To run this project on your local machine, run npm install from terminal in project directory.
 
 ### Step2: 
-Also add firebase configs to dasboard.hbs , login.hbs and index.js
+Add firebase configurations to required files.
 
 ### Step3: 
-Dowmload service account keys and paste it in firebase-key.json file
+Download service account keys by [creating new project in firebase console](https://firebase.google.com/docs/projects/learn-more) and paste those keys in firebase-key.json file
 
 ### Deployed at: 
 https://codarc.herokuapp.com/
